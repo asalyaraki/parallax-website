@@ -2,7 +2,9 @@
 
 ![Uploading Screenshot (37).png…]()
 
-![view final](https://user-images.githubusercontent.com/109727844/204102930-fac80657-4d16-4816-b476-a88e984abefe.jpg)
+![Screenshot (37)](https://github.com/asalyaraki/parallax-website/assets/155806762/ce00c12a-1cdf-4b3b-93b6-a9fcb90d9b26)
+![Screenshot (38)](https://github.com/asalyaraki/parallax-website/assets/155806762/436a0e41-4252-41ac-aa1e-399204b84986)
+
 
 - [Demo Project](https://asalyaraki.github.io/parallax-website/)
 
