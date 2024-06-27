@@ -1,8 +1,7 @@
 # parallax-website
-
-![Uploading Screenshot (37).png…]()
-
 ![Screenshot (37)](https://github.com/asalyaraki/parallax-website/assets/155806762/ce00c12a-1cdf-4b3b-93b6-a9fcb90d9b26)
+
+
 ![Screenshot (38)](https://github.com/asalyaraki/parallax-website/assets/155806762/436a0e41-4252-41ac-aa1e-399204b84986)
 
 
