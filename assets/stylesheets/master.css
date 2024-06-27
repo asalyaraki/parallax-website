@@ -1,0 +1,71 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: auvic;
+    src: url(../font/PlaywriteAUVIC-Regular.ttf);
+  }
+@font-face {
+    font-family: josefin;
+    src: url(../font/JosefinSans-Regular.ttf);
+  }
+@font-face {
+    font-family: merienda;
+    src: url(../font/Merienda-Regular.ttf);
+  }
+
+  .row{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+  }
+
+  .bg1{
+    background-image: url(../img/1.webp);
+    background-size: cover;
+    background-position: center;
+    box-shadow: inset 1000px 1000px rgba(0, 0, 0, 0.199);
+  
+  }
+
+  .backgroundimg1{
+    background-image: url(../img/slide5.webp);
+    background-size: cover;
+    background-position: center;
+    box-shadow: inset 1000px 1000px rgba(0, 0, 0, 0.466);
+
+  }
+  .backgroundimg2{
+    background-image: url(../img/ax2.webp);
+    background-size: cover;
+    background-position: center;
+    box-shadow: inset 1000px 1000px rgba(0, 0, 0, 0.466);
+
+  }
+  .backgroundimg3{
+    background-image: url(../img/ax3.webp);
+    background-size: cover;
+    background-position: center;
+    box-shadow: inset 1000px 1000px rgba(0, 0, 0, 0.466);
+
+  }
+  .backgroundimg4{
+    background-image: url(../img/ax4.webp);
+    background-size: cover;
+    background-position: center;
+    box-shadow: inset 1000px 1000px rgba(0, 0, 0, 0.466);
+    /* background-color: #ffffff3f; */
+
+  }
+
+  .bg2{
+    background-image: url(../img/sec8_1.webp);
+    background-size: cover;
+    background-position: center;
+    box-shadow: inset 1000px 1000px rgba(255, 255, 255, 0.404);
+    
+  
+  }
+
+  
